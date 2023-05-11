@@ -1,0 +1,72 @@
+body {
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial,  sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: rgb(229, 128, 240);
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 3em;
+      color: #9e1414;
+      margin: 0;
+      padding: 0;
+
+
+    }
+
+    #tribute-info {
+      margin-top: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+    }
+    #tribute-info > p {
+      width: 80%;
+      text-align: center;
+      font-size: 1.5em;
+      color: #9e1414;
+    }
+
+    #tribute-image {
+      width: 200px;
+      height: auto;
+      margin-right: 20px;
+      border-radius: 50%;
+
+    }
+    #tribute-info p {
+      font-size: 20px;
+      text-align: center;
+      color: #090909;
+      margin: 0;
+      padding: 0;
+      }
+
+    #tribute-text {
+      max-width: 600px;
+    }
+    #AutoBiography{
+      text-align: center;
+      font-size: 20px;
+      color: #090909;
+      margin: 0;
+      padding: 0;
+      }
+    #tribute-link {
+      text-align: center;
+      margin-top: 20px;
+    }
+    #tribute-link a {
+      text-decoration: none;
+      color: #1a97eb;
+      font-size: 1.5em;
+    }
+    #logo{
+      width: 150px;
+      height: auto;
+      margin-right: 20px;
+      border-radius: 50%;
+      
+    }
